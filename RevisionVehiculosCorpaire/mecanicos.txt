@@ -1,0 +1,10 @@
+MEC-01;Carlos Andrade;Toyota
+MEC-02;Luis Morales;Chevrolet
+MEC-03;Jorge Paredes;Hyundai
+MEC-04;Andres Vega;Kia
+MEC-05;Pedro Salazar;Nissan
+MEC-06;Diego Castro;Mazda
+MEC-07;Mario Torres;Ford
+MEC-08;Fernando Ruiz;Volkswagen
+MEC-09;Javier Mendoza;Renault
+MEC-10;Ricardo Leon;Suzuki
